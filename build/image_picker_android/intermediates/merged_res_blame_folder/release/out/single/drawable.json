@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\hisyam\\StudioProjects\\green_taxi\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\hisyam\\.gradle\\caches\\transforms-3\\348039c1d5335412dd74c7947987f31d\\transformed\\core-1.8.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\hisyam\\StudioProjects\\green_taxi\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\hisyam\\.gradle\\caches\\transforms-3\\348039c1d5335412dd74c7947987f31d\\transformed\\core-1.8.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\hisyam\\StudioProjects\\green_taxi\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\hisyam\\.gradle\\caches\\transforms-3\\348039c1d5335412dd74c7947987f31d\\transformed\\core-1.8.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\hisyam\\StudioProjects\\green_taxi\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\hisyam\\.gradle\\caches\\transforms-3\\348039c1d5335412dd74c7947987f31d\\transformed\\core-1.8.0\\res\\drawable\\notification_icon_background.xml"
+    }
+]

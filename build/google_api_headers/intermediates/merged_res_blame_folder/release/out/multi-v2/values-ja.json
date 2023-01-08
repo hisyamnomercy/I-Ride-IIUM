@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\hisyam\\StudioProjects\\green_taxi\\build\\google_api_headers\\intermediates\\merged_res\\release\\values-ja\\values-ja.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\hisyam\\.gradle\\caches\\transforms-3\\2689204f9c943ba5eff13ab6de98a098\\transformed\\core-1.6.0\\res\\values-ja\\values-ja.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\hisyam\\StudioProjects\\green_taxi\\build\\google_api_headers\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ja\\values-ja.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\hisyam\\.gradle\\caches\\transforms-3\\2689204f9c943ba5eff13ab6de98a098\\transformed\\core-1.6.0\\res\\values-ja\\values-ja.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

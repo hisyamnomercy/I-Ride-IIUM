@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "100954292678",
+    "project_id": "flutterfire-ui-codelab-99900",
+    "storage_bucket": "flutterfire-ui-codelab-99900.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100954292678:android:549d4e27704893240272c7",
+        "android_client_info": {
+          "package_name": "com.dotcoder.green_taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100954292678-3i0g67tskm872ja06dsiu9mamp8q80u1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dotcoder.green_taxi",
+            "certificate_hash": "6a614ec3b754035ff4bccd7c23d3365f5a3e2626"
+          }
+        },
+        {
+          "client_id": "100954292678-qofhlkd0iqcs9qj4t6u12q4jfqic00iu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjmiOvIdnl2a4algjawWPFZ0LtVbwzkfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100954292678-qofhlkd0iqcs9qj4t6u12q4jfqic00iu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "100954292678-a9mjn7qohf5bvvnd884u98qu1s83cij3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.iRideAuth"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100954292678:android:9ac109ff130df9f40272c7",
+        "android_client_info": {
+          "package_name": "com.example.i_ride_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100954292678-qofhlkd0iqcs9qj4t6u12q4jfqic00iu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjmiOvIdnl2a4algjawWPFZ0LtVbwzkfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100954292678-qofhlkd0iqcs9qj4t6u12q4jfqic00iu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "100954292678-a9mjn7qohf5bvvnd884u98qu1s83cij3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.iRideAuth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
